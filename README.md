@@ -21,6 +21,11 @@ If you like the theme, give it a star!
 
 [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
+## Notes for Myself
+1. all page templates under ./_pages
+2. 
+
+
 ## User community
 
 The vibrant community of **al-folio** users is growing!
@@ -169,6 +174,8 @@ Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github
 
 ## Table Of Contents
 
+- [al-folio](#al-folio)
+  - [Notes for Myself](#notes-for-myself)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
   - [Table Of Contents](#table-of-contents)
